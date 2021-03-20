@@ -16,3 +16,6 @@ or
 - ./recipe.sh
 
 this will prompt you for a query
+
+## Notes
+Please note, that depending on the recipe it might not display correctly, because different people format their recipes differently.
